@@ -63,7 +63,7 @@ function loadtoc(a) {
     sortlabel();
     tocLoaded = true;
     displayToc2();
-    document.write('</br><a href="https://www.anhtuanblog.ga" style="font-size: 12px; text-decoration:none; color: #616469;">Designed by Nguyễn Đức Anh Tuấn,    </a>')
+    document.write('</br><a href="https://www.nguyentuanblog.xyz" style="font-size: 12px; text-decoration:none; color: #616469;">Designed by Nguyễn Đức Anh Tuấn,    </a>')
 }
 function filterPosts(a) {
     scroll(0, 0);
